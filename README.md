@@ -121,13 +121,6 @@ You can also check out these resources:
 - [Express.js guide](https://expressjs.com/en/starter/installing.html)
 - [Mongoose documentation](https://mongoosejs.com/) (if using MongoDB)
 
-## Contributing
-
-If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
